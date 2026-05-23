@@ -1,7 +1,7 @@
 {
     "Version": "2.1.0",
-    "DownloadUrl": "https://github.com/vizbzikk/mergekeyc/releases/download/v1.1.0/MergeMaster.exe",
-    "WhatNew": "🚀 НОВОЕ В ВЕРСИИ 2.1.0:\n\n• Конвертация в ICO формат (создание иконок)\n• Автоматическая проверка обновлений\n• Улучшена производительность\n• Исправлены ошибки с водяными знаками\n• Улучшен интерфейс программы",
+    "DownloadUrl": "https://github.com/vizbzikk/Merge_Version/releases/download/v1.1.0/Merge.exe",
+    "WhatNew": "🚀 НОВОЕ В ВЕРСИИ 2.1.0:\n\n• Конвертация в ICO формат\n• Автоматическая проверка обновлений\n• Улучшена производительность\n• Исправлены ошибки",
     "IsRequired": false,
     "FileSize": 52428800
 }
