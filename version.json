@@ -1,7 +1,7 @@
 {
     "Version": "1.1.3",
     "DownloadUrl": "https://github.com/vizbzikk/Merge_Version/releases/download/OpenBetaTest/Merge.exe",
-    "WhatNew": "🚀 НОВОЕ В ВЕРСИИ 1.1.3:\n\n• ПРЕДВАРИТЕЛЬНЫЙ РЕЛИЗ\n• Решение проблем с лицензиями\n• Улучшена производительность\n• Главный файл не изменен",
+    "WhatNew": "🚀 НОВОЕ В ВЕРСИИ 1.1.3:\n\n• РЕЛИЗ\n• Решение проблем с лицензиями\n• Улучшена производительность\n• Новые функции и исправление багов",
     "IsRequired": false,
     "FileSize": 52428800
 }
