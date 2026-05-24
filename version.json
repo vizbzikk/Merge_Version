@@ -1,7 +1,7 @@
 {
-    "Version": "2.1.1",
+    "Version": "1.1.1",
     "DownloadUrl": "https://github.com/vizbzikk/Merge_Version/releases/download/OpenBetaTest/Merge.exe",
-    "WhatNew": "🚀 НОВОЕ В ВЕРСИИ 2.1.1:\n\n• ПРЕДВАРИТЕЛЬНЫЙ РЕЛИЗ\n• Автоматическая проверка обновлений\n• Улучшена производительность\n• Главный файл не изменен",
+    "WhatNew": "🚀 НОВОЕ В ВЕРСИИ 2.1.1:\n\n• ПРЕДВАРИТЕЛЬНЫЙ РЕЛИЗ\n• Решение проблем с лицензиями\n• Улучшена производительность\n• Главный файл не изменен",
     "IsRequired": false,
     "FileSize": 52428800
 }
