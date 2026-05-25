@@ -1,7 +1,7 @@
 {
-    "Version": "1.1.6",
+    "Version": "1.2.0",
     "DownloadUrl": "https://github.com/vizbzikk/Merge_Version/releases/download/OpenBetaTest/Merge.exe",
-    "WhatNew": "🚀 НОВОЕ В ВЕРСИИ 1.1.6:\n\n• РЕЛИЗ\n• Решение проблем с лицензиями\n• Изменение ключей\n• Новые функции в корпоративной версии",
+    "WhatNew": "🚀 НОВОЕ В ВЕРСИИ 1.1.6:\n\n РЕЛИЗ\n Решение проблем с лицензиями\n Новая лицензия\n• Добавлены математические функции",
     "IsRequired": false,
     "FileSize": 52428800
 }
